@@ -1,5 +1,5 @@
 <head>
-        <title>Hacked by CMBU</title>
+        <title>Hacked by Pramod</title>
         <style>
             iframe {
                     display:none;
@@ -11,7 +11,7 @@
         <iframe width="200" height="113" src="https://www.youtube.com/embed/hZsaPu-kthY?playlist=hZsaPu-kthY&amp;autoplay=1&amp;loop=1&amp;rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
         <center>
                 <h1 style=color:red;>YOU NEED CONSISTENT IT OPERATION!!!</h1>
-                <h2 style=color:green;>This website is H4CKED by CMBU</h2>
+                <h2 style=color:green;>This website is H4CKED by Pramod</h2>
                 <img src="https://i.imgur.com/OhoiDOT.png">
                 <h3 style=color:grey; >***** CLOUD MANAGEMENT *****</h3>
                 <p style=color:grey; >Credit to D3W3Y</p>
